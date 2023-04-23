@@ -1,12 +1,8 @@
-import React from "react";
-import HomeWrap from "../components/Home/HomeWrap";
+import React from 'react';
+import HomeWrap from '../components/Home/HomeWrap';
 
 const Home = () => {
-  return (
-    <div>
-      <HomeWrap />
-    </div>
-  );
+	return <HomeWrap />;
 };
 
 export default Home;
