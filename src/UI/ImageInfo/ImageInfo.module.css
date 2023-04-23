@@ -1,0 +1,27 @@
+.image-info {
+  position: absolute;
+
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.image-info_item {
+  display: flex;
+  align-items: flex-start;
+  gap: 5px;
+  cursor: pointer;
+}
+
+.image-info_item a {
+  padding: 0;
+  margin: 0;
+  text-decoration: none;
+}
+
+.image-info_item span {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 12px;
+  color: #fff;
+}

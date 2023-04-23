@@ -1,0 +1,47 @@
+.featured-down {
+  position: relative;
+  display: flex;
+}
+
+.featured-left {
+  margin: 113px 60px 0px;
+  padding: 60px 40px 0px;
+  width: 50%;
+}
+
+.featured-left_header {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #c0c0c0;
+}
+
+.featured-left_title {
+  margin-top: 6px;
+  font-weight: 400;
+  font-size: 28px;
+  line-height: 32px;
+}
+
+.featured-left_text {
+  margin-top: 14px;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  margin-bottom: 20px;
+}
+
+.featured-right {
+  background-image: url("../../image/FeaturedRight.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 50%;
+  height: 497px;
+}
+
+.featured-right_info {
+  right: 50px;
+  bottom: 25px;
+}

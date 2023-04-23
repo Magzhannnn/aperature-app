@@ -1,0 +1,1 @@
+export const isLoginHelper = () => localStorage.getItem("isLogin") ? true : false

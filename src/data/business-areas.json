@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "title": "Product Photography",
+    "text": "Cras commodo consequat orci, in convallis risus egestas non. Nulla efficitur auctor hendrerit. Etiam ut orci varius, faucibus libero ac, cursus quam.",
+    "image": "product",
+    "clock": "0.8\"",
+    "shape": "f/5,6",
+    "iso": 100,
+    "place": "Sweden",
+    "placeLink": "https://www.google.com/maps/place/Kyrkogatan+15,+852+31+Sundsvall,+%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D1%8F/@62.389917,17.3090101,17z/data=!3m1!4b1!4m6!3m5!1s0x4664675cfebd7ce7:0x533a04c53f1f26b!8m2!3d62.389917!4d17.3090101!16s%2Fg%2F11b823gmcb"
+  },
+  {
+    "id": 2,
+    "title": "Architecture Photography",
+    "text": "Aenean porta neque eget consequat fringilla. Vestibulum ultrices, orci nec egestas pharetra, ligula est semper enim, nec auctor sapien leo nec purus. Fusce tincidunt aliquet sapien, sit amet rhoncus leo imperdiet nec.",
+    "image": "architecture",
+    "clock": "0.8\"",
+    "shape": "f/5,6",
+    "iso": 100,
+    "place": "Kazakhstan",
+    "placeLink": "https://www.google.com/maps/place/%D1%83%D0%BB%D0%B8%D1%86%D0%B0+%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE+165%D0%B1%2F72,+%D0%90%D0%BB%D0%BC%D0%B0%D1%82%D1%8B+050000/@43.2432702,76.8900457,17.81z/data=!4m15!1m8!3m7!1s0x38a91007ecfca947:0x5f7b842fe4b30e1b!2z0JrQsNC30LDRhdGB0YLQsNC9!3b1!8m2!3d48.019573!4d66.923684!16zL20vMDQ3bGo!3m5!1s0x38836914550a2389:0x8371034b772eb513!8m2!3d43.2429515!4d76.8921378!16s%2Fg%2F11b8txcc02"
+  },
+  {
+    "id": 3,
+    "title": "Drone Photography",
+    "text": "Mauris euismod elit et nisi ultrices, ut faucibus orci tincidunt. Duis tristique sed lorem a vestibulum. Cras commodo consequat orci, in convallis risus egestas non. Nulla efficitur auctor hendrerit. Etiam ut orci varius, faucibus libero ac, cursus quam.",
+    "image": "drone",
+    "clock": "0.8\"",
+    "shape": "f/5,6",
+    "iso": 100,
+    "place": "USA",
+    "placeLink": "https://www.google.com/maps/place/1316+S+Street+NW+A,+Washington,+DC+20009,+%D0%A1%D0%A8%D0%90/@38.9138848,-77.0304947,17z/data=!3m1!4b1!4m6!3m5!1s0x89b7b7e8f8692c23:0x60a7c31ac48c0e09!8m2!3d38.9138848!4d-77.0304947!16s%2Fg%2F11qg0z9l68"
+  },
+  {
+    "id": 4,
+    "title": "Wildlife Photography",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam scelerisque aliquam odio et faucibus. Nulla rhoncus feugiat eros quis consectetur. Morbi neque ex, condimentum dapibus congue et, vulputate ut ligula. Vestibulum sit amet urna turpis.",
+    "image": "wildlife",
+    "clock": "0.8\"",
+    "shape": "f/5,6",
+    "iso": 100,
+    "place": "Germany",
+    "placeLink": "https://www.google.com/maps/place/MyWellness+GmbH+branch+Dortmund+Mitte/@51.4956236,7.4332092,16.15z/data=!3m1!5s0x47b919cc03aecc23:0xf0e904965df0ea6a!4m15!1m8!3m7!1s0x479a721ec2b1be6b:0x75e85d6b8e91e55b!2z0JPQtdGA0LzQsNC90LjRjw!3b1!8m2!3d51.165691!4d10.451526!16zL20vMDM0NWg!3m5!1s0x47b919cc1adca921:0xa66b6d4828be2c2e!8m2!3d51.4943431!4d7.442153!16s%2Fg%2F11c6zn8lq1"
+  }
+]

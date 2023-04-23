@@ -1,0 +1,22 @@
+.header {
+	margin: 105px 0 40px;
+}
+
+.header-title {
+	font-weight: 400;
+	font-size: 40px;
+	line-height: 42px;
+	text-align: center;
+
+	width: 571px;
+  margin: 0 auto;
+	margin-bottom: 15px;
+}
+
+.header-text {
+	font-weight: 400;
+	font-size: 23px;
+	line-height: 30px;
+	text-align: center;
+	color: #c0c0c0;
+}

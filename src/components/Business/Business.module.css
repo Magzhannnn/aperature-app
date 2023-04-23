@@ -1,0 +1,100 @@
+.bisuness-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+
+  margin-bottom: 50px;
+}
+
+.b_wrap {
+  flex: 0.9;
+}
+
+.bisuness-item_product,
+.bisuness-item_architecture,
+.bisuness-item_drone,
+.bisuness-item_wildlife {
+  background-image: url("../../image/Product.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 49%;
+  height: 500px;
+
+  display: flex;
+  flex-direction: column;
+  padding: 0px 30px;
+}
+.bisuness-item_architecture {
+  background-image: url("../../image/Architecture.png");
+}
+.bisuness-item_drone {
+  background-image: url("../../image/Drone.png");
+}
+.bisuness-item_wildlife {
+  background-image: url("../../image/Wildlife.png");
+}
+
+.business-item_title {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  margin-bottom: 10px;
+}
+
+.business-item_text {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  color: #c0c0c0;
+  margin-bottom: 20px;
+}
+
+.bs-modal {
+  display: flex;
+  gap: 10px;
+}
+
+.bs-modal_product,
+.bs-modal_architecture,
+.bs-modal_drone,
+.bs-modal_wildlife {
+  background-image: url("../../image/Product.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 50%;
+  height: 294px;
+  border-radius: 10px 0px 0px 10px;
+}
+.bs-modal_architecture {
+  background-image: url("../../image/Architecture.png");
+}
+.bs-modal_drone {
+  background-image: url("../../image/Drone.png");
+}
+.bs-modal_wildlife {
+  background-image: url("../../image/Wildlife.png");
+}
+
+.bs-modal_right {
+  width: 60%;
+}
+
+.bs-modal_title {
+  margin: 9px 0;
+  font-size: 22px;
+  font-weight: bold;
+}
+
+.bs-modal_text{
+  color: #f1f1f1;
+  font-size: 18px;
+  font-weight: 300;
+  line-height: 20px;
+}
+
+.bs-modal_info {
+  right: 17px;
+  bottom: 10px;
+}
