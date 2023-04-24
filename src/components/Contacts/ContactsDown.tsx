@@ -12,6 +12,7 @@ const ContactsDown = () => {
 			/>
 			<ButtonSite
 				title='Get in touch'
+				className={styles['contacts-btn']}
 				onClickHandler={() => alert('start Contact')}
 			/>
 		</Container>
